@@ -6,7 +6,11 @@
 
 ## Demo — LiDAR Obstacle Detection Playback
 
-PASTE_GITHUB_VIDEO_URL_HERE
+
+
+https://github.com/user-attachments/assets/bc255a22-2145-43b1-9212-5af61eac6198
+
+
 
 *Sequential KITTI Velodyne frame playback with ground segmentation, Euclidean obstacle clustering, and 3D bounding-box visualization. Dataset frames are not necessarily temporally consecutive.*
 
